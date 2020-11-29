@@ -6,4 +6,5 @@
 #### Application : 
 In the production, the camera needs to be installed and registered so that we can map number of people violating social distancing rules during the pandemic. This project can be modify by adding person identification so that our model can calculate the number of times the same person is violating. 
 
-https://github.com/aakriti1318/Social-Distancing-Detector/blob/master/social_distancing.png?raw=true
+![social_distancing](https://user-images.githubusercontent.com/56245613/100550818-8efd7c80-32a2-11eb-9c23-b99e39c8ee38.png)
+
